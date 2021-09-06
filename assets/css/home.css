@@ -160,7 +160,7 @@ body {
 .container {
   max-width: 975px;
   margin: 0 auto;
-  padding-top: 80px;
+  padding-top: 80px 15px 0 15px;
 }
 
 @media (max-width: 640px) {
